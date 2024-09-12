@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company: OpenAI
+* `Name of company`: OpenAI
 
 * Incorporation Date: OpenAI was founded in December 2015.
 
