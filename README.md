@@ -61,6 +61,6 @@ Why This Product/Service?: The healthcare industry is ripe for disruption by AI,
 
 ### Sources:
 
-1. OpenAI Official Website: https://openai.com
-2. Microsoft AI Partnership: https://news.microsoft.com
-3. Analysis of AI Trends: https://www.forbes.com/sites/forbestechcouncil/
+1. [OpenAI](https://openai.com)
+2. [Microsoft AI Partnership](https://news.microsoft.com)
+3. [Analysis of AI Trends](https://www.forbes.com/sites/forbestechcouncil/)
