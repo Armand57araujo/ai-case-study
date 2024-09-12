@@ -4,13 +4,13 @@
 
 * `Name of company`: OpenAI
 
-* Incorporation Date: OpenAI was founded in December 2015.
+* `Incorporation Date`: OpenAI was founded in December 2015.
 
-* Founders: OpenAI was co-founded by [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman), [Greg Brockman](https://en.wikipedia.org/wiki/Greg_Brockman), [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), John Schulman, and [Wojciech Zaremba](https://en.wikipedia.org/wiki/Wojciech_Zaremba).
+* `Founders`: OpenAI was co-founded by [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman), [Greg Brockman](https://en.wikipedia.org/wiki/Greg_Brockman), [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), John Schulman, and [Wojciech Zaremba](https://en.wikipedia.org/wiki/Wojciech_Zaremba).
 
-* Origin of Idea: The founding idea behind OpenAI was to build artificial general intelligence (AGI) in a safe and ethical manner. The motivation was to ensure that powerful AI technologies benefit humanity as a whole and are not monopolized by a few entities. The founders wanted to prioritize safety and transparency while advancing AI research.
+* `Origin of Idea`: The founding idea behind OpenAI was to build artificial general intelligence (AGI) in a safe and ethical manner. The motivation was to ensure that powerful AI technologies benefit humanity as a whole and are not monopolized by a few entities. The founders wanted to prioritize safety and transparency while advancing AI research.
 
-* Funding: Initially, OpenAI was a non-profit, but in 2019, it restructured into a "capped-profit" model to attract significant funding. The company has received $1 billion from Microsoft as part of its partnership and has raised additional funds to support its ongoing research into AGI.
+* `Funding`: Initially, OpenAI was a non-profit, but in 2019, it restructured into a "capped-profit" model to attract significant funding. The company has received $1 billion from Microsoft as part of its partnership and has raised additional funds to support its ongoing research into AGI.
 
 ### Business Activities
 
