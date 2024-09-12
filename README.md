@@ -29,7 +29,7 @@
 
 
 ### AI Domain Trends
-`Field`: OpenAI operates within the artificial intelligence sector, specifically focusing on natural language processing, generative AI, and AGI research.
+*`Field`: OpenAI operates within the artificial intelligence sector, specifically focusing on natural language processing, generative AI, and AGI research.
 Trends:
 
 * `Generative AI`: Over the last 5–10 years, generative AI has become a dominant trend, with models like GPT-3 and GPT-4 setting new benchmarks for text generation.
