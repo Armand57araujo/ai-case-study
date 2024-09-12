@@ -6,7 +6,7 @@
 
 * Incorporation Date: OpenAI was founded in December 2015.
 
-* Founders: OpenAI was co-founded by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba.
+* Founders: OpenAI was co-founded by `Elon Musk`, Sam Altman, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba.
 
 * Origin of Idea: The founding idea behind OpenAI was to build artificial general intelligence (AGI) in a safe and ethical manner. The motivation was to ensure that powerful AI technologies benefit humanity as a whole and are not monopolized by a few entities. The founders wanted to prioritize safety and transparency while advancing AI research.
 
